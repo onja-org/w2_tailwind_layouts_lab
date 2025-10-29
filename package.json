@@ -1,19 +1,22 @@
 {
-  "name": "tailwind-realtor-lab",
-  "version": "1.0.0",
-  "description": "CSS Tailwind Layouts Lab – Build a responsive realtor app using Flexbox and Grid with Tailwind CSS utility classes.",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "Onja dev",
-  "license": "MIT",
-  "devDependencies": {
-    "jest": "^29.7.0",
-    "jest-environment-jsdom": "^29.7.0",
-    "jsdom": "^22.1.0"
-  },
-  "jest": {
-    "testEnvironment": "jsdom"
-  }
+    "name": "tailwind-realtor-lab",
+    "version": "1.0.0",
+    "description": "CSS Tailwind Layouts Lab – Build a responsive realtor app using Flexbox and Grid with Tailwind CSS utility classes.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Onja dev",
+    "license": "MIT",
+    "dependencies": {
+        "tailwindcss": "^3.4.17"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0",
+        "jest-environment-jsdom": "^29.7.0",
+        "jsdom": "^22.1.0"
+    },
+    "jest": {
+        "testEnvironment": "jsdom"
+    }
 }
