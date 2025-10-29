@@ -12,11 +12,11 @@ Learn Tailwind CSS Layouts with Grid and Flex
 ### How to Run the Code
 **Option 1: Live Preview (Recommended)**
 - Make sure you have the Live Preview extension installed (if not, navigate to extensions in VSCode, and search for Live Preview, then install the extension)
-- While editing your `index.html` file, you will see a split screen icon with a magnifying glass, that is your live preview.
+- While editing your `index.html` file, you will see a split screen icon with a magnifying glass, that is your live preview. Click that to open an auto-updating browser window in your VSCode
 
-![live preview](./assets/live-preview.png)
+    ![live preview](./assets/live-preview.png)
 
- Click that to open an auto-updating browser window in your VSCode
+---
 
 **Option 2: Manual**
 - Navigate to `w2_tailwind_layouts/lab`
